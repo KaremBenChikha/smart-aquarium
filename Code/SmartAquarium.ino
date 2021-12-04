@@ -26,8 +26,8 @@ const char* host = "maker.ifttt.com";
 const int httpsPort = 443;
 
 // Make a POST or GET web request to
-String temp_url = "/trigger/Temperature/with/key/kSBX3NcCsB2Xz2z-ngJYu7U6jhBoiDKXzK8DkY7r1QZ";
-String feed_url = "/trigger/Feeding/with/key/kSBX3NcCsB2Xz2z-ngJYu7U6jhBoiDKXzK8DkY7r1QZ";
+String temp_url = ;
+String feed_url = ;
 
 /************ Global State ******************/
 
